@@ -1,0 +1,10 @@
+Novizio [1] - Уборщик.<br>
+Associato [2] - Водитель.<br>
+Controllato [3] - Портье.<br>
+Razionate [4] - Аниматор.<br>
+Combatento [5] - MICE-менеджер.<br>
+Soldato [6] - Менеджер по туризму.<br>
+Capo [7] - Переводчик.<br>
+Strada Boss [8] - Гид.<br>
+Consigliere [9] - Заместитель директора.<br>
+Don [10] - Директор туристического агентства.<br>
